@@ -13399,10 +13399,10 @@
             <Game>Beyond Good &amp; Evil</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/UnderscorePoY/BGE-Autosplitter/main/BGE.asl</URL>
+            <URL>https://raw.githubusercontent.com/UnderscorePoY/BGE-Autosplitter/master/BGE.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start/split/reset, and load-removal for IGT. (by UnderscorePoY)</Description>
+        <Description>Beyond Good &amp; Evil autosplitter. Automatic start/split/reset/load-removal are available. (by UnderscorePoY)</Description>
         <Website>https://discord.gg/JX6AmJ9</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -22396,5 +22396,15 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover and Autosplitter for Shift 2: Unleashed 1.02 by Balathruin and WillTreaty</Description>
+    </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>LEGO City Undercover</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/lcuLoad.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available. (By MarvelousBilly)</Description>
     </AutoSplitter>
 </AutoSplitters>
