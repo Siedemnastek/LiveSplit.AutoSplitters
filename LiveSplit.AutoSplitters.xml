@@ -23256,4 +23256,14 @@
         <Type>Script</Type>
         <Description>Auto Splitter (start, end) by vojtechblazek</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>LEGO Indiana Jones: The Original Adventures Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LIJ1.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal available. (By Siedemnastek and Tfresh)</Description>
+    </AutoSplitter>
 </AutoSplitters>
